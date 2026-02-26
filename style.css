@@ -1,0 +1,17 @@
+#icon {
+    height: 62px;
+}
+
+body{
+    margin: 0%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: rgb(22, 138, 99);
+    color: rgb(245, 245, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
