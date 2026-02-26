@@ -2,16 +2,37 @@
     height: 62px;
 }
 
-body{
+body {
     margin: 0%;
 }
-nav{
+
+nav {
     display: flex;
     align-items: center;
     justify-content: space-around;
 
     background-color: rgb(22, 138, 99);
-    color: rgb(245, 245, 241);
+    color: rgb(230, 230, 190);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
- 
+
+#notícia {
+    display: flex;
+    background-color: rgb(206, 235, 213);
+    margin: 40 px;
+}
+
+.notícias {
+    background-color: rgb(255, 255, 255);
+    border: 5px solid rgb(99, 196, 139);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    font-family: ti;
+
+}
+
+
+.img_noticia {
+    height: 150px;
+}
